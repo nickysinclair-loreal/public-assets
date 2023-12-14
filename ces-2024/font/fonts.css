@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Font 1 Black';
+    src: url(https://nickysinclair-loreal.github.io/public-assets/ces-2024/font/font1-black.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Font 1 Bold';
+    src: url(https://nickysinclair-loreal.github.io/public-assets/ces-2024/font/font1-bold.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Font 1 Book';
+    src: url(https://nickysinclair-loreal.github.io/public-assets/ces-2024/font/font1-book.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Font 1 Medium';
+    src: url(https://nickysinclair-loreal.github.io/public-assets/ces-2024/font/font1-medium.otf) format('opentype');
+}
+@font-face {
+    font-family: 'Font 2 Regular';
+    src: url(https://nickysinclair-loreal.github.io/public-assets/ces-2024/font/font2-regular.otf) format('opentype');
+}
